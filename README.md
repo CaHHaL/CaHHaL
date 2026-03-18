@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/cahhal" target="blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" height="30" width="30" style="filter: invert(1);" />
 </a>
 </p>
 
